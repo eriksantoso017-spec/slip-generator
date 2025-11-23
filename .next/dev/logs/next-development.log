@@ -1,0 +1,22 @@
+[00:00:01.972] Server  LOG      ✓ Ready in 1249ms
+[00:00:13.680] Server  LOG      ○ Compiling / ...
+[00:00:18.886] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:44.157] Server  LOG      ✓ Compiled in 107ms
+[00:01:48.471] Server  LOG      ✓ Compiled in 85ms
+[00:01:52.073] Server  LOG      ✓ Compiled in 71ms
+[00:01:56.822] Server  LOG      ✓ Compiled in 61ms
+[00:02:09.650] Server  LOG      ✓ Compiled in 91ms
+[00:02:14.777] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:45.220] Server  LOG      ✓ Compiled in 66ms
+[00:06:08.937] Server  LOG      ✓ Compiled in 69ms
+[00:06:16.733] Server  LOG      ✓ Compiled in 45ms
+[00:09:02.931] Server  WARN     ⚠ Cross origin request detected from winged-unmeandering-lyda.ngrok-free.dev to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:09:03.256] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:28.890] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:26.283] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:42:29.317] Server  LOG      ✓ Compiled in 104ms
+[00:43:31.994] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:01.312] Server  LOG      ✓ Compiled in 61ms
+[00:45:25.091] Server  LOG      ✓ Compiled in 50ms
+[00:45:27.244] Server  LOG      ✓ Compiled in 53ms
